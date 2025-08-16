@@ -1,5 +1,7 @@
 
 
+
+
 # Literature Review
 
 ## Summary
@@ -114,4 +116,6 @@ The literature reveals a clear paradigm shift from viewing BEACH proteins as sta
 4. **Allosteric capacity** (PH domain conformational networks)
 
 Future research should focus on characterizing the dynamic aspects of BEACH protein structure and function, particularly the allosteric networks that enable their sophisticated regulatory capabilities. This approach will likely reveal new therapeutic targets and explain disease mechanisms through network disruption rather than simple loss of function.
+
+
 
