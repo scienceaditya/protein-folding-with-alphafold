@@ -6,9 +6,9 @@
 
 ## Key Research Questions
 
-1. 
-2. 
-3. 
+1. Determine the function of BEACH-domain containing proteins
+2. Predict the structures of BEACH-domain containing proteins
+3. Identify putative interaction partners of of BEACH-domain containing proteins
 
 ## Methodology
 
